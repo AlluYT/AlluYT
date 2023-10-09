@@ -1,21 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17529
-Fork on GitHub
-5099
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
+nload backup
 
 preview
 <h1 align="center">Hi 👋, I'm Ameen S</h1>
-<h3 align="center">"Passionate MERN Stack Developer with a BBA Degree"</h3>
+<h3 align="center">""DCA and BBA Graduate: Navigating the MERN Stack Universe""</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alluyt&label=Profile%20views&color=0e75b6&style=flat" alt="alluyt" /> </p>
 
