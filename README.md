@@ -1,6 +1,3 @@
-nload backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ameen S</h1>
 <h3 align="center">""DCA and BBA Graduate: Navigating the MERN Stack Universe""</h3>
 
