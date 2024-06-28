@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 I'm currently working on building several projects using the **MERN stack to improve my skills and get hands-on experience.**
+- 💻 I'm currently working on building several projects using the **Flutter  to improve my skills and get hands-on experience.**
 
 - 🔭Embarking on a **Flutter Journey**
 
 - . 🔭 I’m looking to collaborate on open-source projects and to **learn from other developers.**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Flutter and Web**
 
 - 📫 How to reach me **ameen.33.ns@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:9995598212</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alluyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alluyt" height="30" width="40" /></a>
 <a href="https://fb.com/alluameen sha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alluameen sha" height="30" width="40" /></a>
