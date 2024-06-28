@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameen S</h1>
-<h3 align="center">"DCA and BBA Graduate: Navigating the MERN Stack Universe"</h3>
+<h3 align="center">"DCA and BBA Graduate: Navigating the App Developer(Flutter) and the Web Developer Universe"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alluyt&label=Profile%20views&color=0e75b6&style=flat" alt="alluyt" /> </p>
 
